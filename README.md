@@ -12,7 +12,7 @@ This tutorial provides a step by step guide on using Git, WebStorm, and GitHub f
     * Open WebStorm.
     * Go to *File* -> *Settings* (or *WebStorm* -> *Preferences* on macOS).
     * Navigate to *Version Control* -> *Git*.
-    * Specify the path to your Git executable or WebStorm might auto-detect it.
+    * Specify the path to your Git executable, or WebStorm might auto-detect it.
 
 4. **Create a GitHub Account:** Create a GitHub account at [https://github.com/join](https://github.com/join).
 
@@ -51,13 +51,13 @@ This tutorial provides a step by step guide on using Git, WebStorm, and GitHub f
 *   **Merge:** Combine changes from one branch into another.
 *   **Merge Conflict:** A situation where Git cannot automatically merge changes.
 *   **Push:** Upload changes from local to remote repository.
-*   **Pull:** Download and merge changes from remote to local **branch**.
+*   **Pull:** Download and merge changes from remote to local branch.
 *   **Remote:** A Git repository hosted on a server.
 *   **Repository:** A collection of files and their history, managed by Git.
 
 ## References
 
 1.  Beer, B. (2018). *Introducing GitHub*. 2ed. O’Reilly Press.
-2.  Jetbrains. (2019). Git. Retrieved Feburary 13, 2025, from [https://www.jetbrains.com/help/webstorm/using-git-integration.html](https://www.jetbrains.com/help/webstorm/using-git-integration.html)
-3.  GitHub (2019) GitHub Guides Tutorial. Retrieved Feburary 13, 2025, from [https://guides.github.com/activities/hello-world/](https://guides.github.com/activities/hello-world/)
+2.  Jetbrains. (2019). Git. Retrieved February 13, 2025, from [https://www.jetbrains.com/help/webstorm/using-git-integration.html](https://www.jetbrains.com/help/webstorm/using-git-integration.html)
+3.  GitHub (2019) GitHub Guides Tutorial. Retrieved February 13, 2025, from [https://guides.github.com/activities/hello-world/](https://guides.github.com/activities/hello-world/)
 4. Professor Hendala's PowerPoint Presentation: IntroToGitHub-20190318.pptx (03/24/2019)
